@@ -1,87 +1,139 @@
-## Portfolio Website
-[Click here to visit my portfolio](https://portfolio-lime-seven-66.vercel.app/)
-# 💻 Tech Stack:
-## Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-## Machine learning and Data Science
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# Hi there, I'm Lloyd Tony Katila 👋
 
-## Web backend:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## Full Stack Software Developer | Backend Specialist | .NET Core & Cloud Technologies
 
-## Web frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
-
-## Databases:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Other frameworks and Technologies:
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-## Webservers:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-
-## Query Languages:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-
-## Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-## Networking
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![NetSim](https://img.shields.io/badge/NetSim-007ACC?style=for-the-badge&logo=network&logoColor=white)
-
-## Cybersecurity:
-![Security Onion](https://img.shields.io/badge/Security%20Onion-0078D7?style=for-the-badge&logo=security&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tonylloyd2&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tonylloyd2&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonylloyd2&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wandabi-gs&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lloyd--katila-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lloyd-katila-8a70b2238/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=google-chrome)](https://portfolio-lime-seven-66.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-cyberpunkmania-181717?style=for-the-badge&logo=github)](https://github.com/cyberpunkmania)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tonylloyd2&label=Profile%20Views%20number&color=7&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
+## 🚀 About Me
+
+Results-driven **Full Stack Software Developer** with **3+ years of experience** building scalable web applications and RESTful APIs. Currently working at **Birdview Insurance Company**, where I've architected system integrations that **reduced operational costs by 40%**.
+
+- 🔭 Currently building microservices and cloud-native applications
+- 💼 Specialized in **Backend Development** with **.NET Core, C#, and Azure**
+- 🎯 Passionate about **clean architecture**, **Domain-Driven Design**, and **Test-Driven Development**
+- 🏆 **HUAWEI ICT Competition** - 1st Place Regional Winner (Cloud Computing Track)
+- 🛡️ **Cybersecurity Hackathon** - 5th Place National Competition (CAK)
+- 🎓 Pursuing BSc Computer Science at Maseno University (2020-2025)
+
+---
+
+## 💻 Technical Stack
+
+### Backend Development
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Tools & Methodologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+### **Full Stack Developer (Backend Focus)** | Birdview Insurance Company
+*June 2025 – Present*
+
+- 🏗️ Architected system integrations with health providers, **reducing SaaS expenses by 40%**
+- ⚡ Built scalable microservices handling **100+ daily transactions** with **99.9% uptime**
+- 🚀 Implemented CI/CD pipelines, **reducing deployment time by 60%**
+- 📊 Optimized database queries and caching, **improving API response times by 45%**
+
+### **Junior Backend Developer** | Syncfusion
+*January 2025 – June 2025*
+
+- 🔧 Developed nano services following Domain-Driven Design principles
+- ✅ Achieved **80% code coverage** through comprehensive testing
+- 🤝 Participated in Agile ceremonies and code reviews
+
+### **Technical Support Engineer** | TrueHost
+*September 2023 – January 2024*
+
+- 🖥️ Maintained web servers and databases for optimal performance
+- 🐛 Debugged applications across multiple technology stacks
+- 📝 Documented backend processes and technical solutions
+
+---
+
+## 🏆 Key Achievements
+
+- **40% Cost Reduction**: Eliminated third-party platform dependencies through custom integrations
+- **99.9% Uptime**: Maintained high availability for critical insurance microservices
+- **60% Faster Deployments**: Streamlined CI/CD processes using Azure DevOps
+- **45% Performance Improvement**: Optimized database queries and implemented caching strategies
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonylloyd2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonylloyd2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylloyd2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔄 Building event-driven microservices architecture
+- ☁️ Deepening expertise in Azure cloud services
+- 🧪 Implementing Test-Driven Development practices
+- 📚 Contributing to open-source .NET projects
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn**: [lloyd-katila](https://linkedin.com/in/lloyd-katila)
+- 🌐 **Portfolio**: [View My Work](https://portfolio-lime-seven-66.vercel.app/)
+- 📧 **Email**: lloydkatila@gmail.com
+- 📱 **Phone**: +254-791333586
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonylloyd2&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>⚡ "Building scalable solutions that make a difference" ⚡</i>
+</div>
