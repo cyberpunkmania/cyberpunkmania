@@ -16,9 +16,6 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 - 💼 Specialized in **Backend Development** with **.NET Core, C#, and Azure**
 - 🎯 Passionate about **clean architecture**, **Domain-Driven Design**, and **Test-Driven Development**
 - 🏆 **HUAWEI ICT Competition** - 1st Place Regional Winner (Cloud Computing Track)
-- 🛡️ **Cybersecurity Hackathon** - 5th Place National Competition (CAK)
-- 🎓 Pursuing BSc Computer Science at Maseno University (2020-2025)
-
 ---
 
 ## 💻 Technical Stack
