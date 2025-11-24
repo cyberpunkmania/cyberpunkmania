@@ -120,7 +120,7 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 
 ## 📫 Let's Connect
 
-- 💼 **LinkedIn**: [lloyd-katila]([https://linkedin.com/in/lloyd-katila](https://www.linkedin.com/in/lloyd-katila-8a70b2238/))
+- 💼 **LinkedIn**: [lloyd-katila](https://www.linkedin.com/in/lloyd-katila-8a70b2238/)
 - 🌐 **Portfolio**: [View My Work](https://portfolio-lime-seven-66.vercel.app/)
 - 📧 **Email**: lloydkatila@gmail.com
 - 📱 **Phone**: +254-791333586
