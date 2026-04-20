@@ -99,12 +99,12 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonylloyd2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonylloyd2&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberpunkmania&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberpunkmania&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonylloyd2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpunkmania&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -121,7 +121,6 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [lloyd-katila](https://www.linkedin.com/in/lloyd-katila-8a70b2238/)
-- 🌐 **Portfolio**: [View My Work](https://portfolio-lime-seven-66.vercel.app/)
 - 📧 **Email**: lloydkatila@gmail.com
 - 📱 **Phone**: +254-791333586
 
