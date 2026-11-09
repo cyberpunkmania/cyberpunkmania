@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Results-driven **Full Stack Software Developer** with **3+ years of experience** building scalable web applications and RESTful APIs. Currently working at **Birdview Insurance Company**, where I've architected system integrations that **reduced operational costs by 40%**.
 
-- 🔭 Currently building microservices and cloud-native applications
-- 💼 Specialized in **Backend Development** with **.NET Core, C#, and Azure**
-- 🎯 Passionate about **clean architecture**, **Domain-Driven Design**, and **Test-Driven Development**
-- 🏆 **HUAWEI ICT Competition** - 1st Place Regional Winner (Cloud Computing Track)
+- Currently building microservices and cloud-native applications
+- Specialized in **Backend Development** with **.NET Core, C#, and Azure**
+- Passionate about **clean architecture**, **Domain-Driven Design**, and **Test-Driven Development**
+- **HUAWEI ICT Competition** - 1st Place Regional Winner (Cloud Computing Track)
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 ### Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -61,33 +61,33 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Full Stack Developer (Backend Focus)** | Birdview Insurance Company
 *June 2025 – Present*
 
-- 🏗️ Architected system integrations with health providers, **reducing SaaS expenses by 40%**
-- ⚡ Built scalable microservices handling **100+ daily transactions** with **99.9% uptime**
-- 🚀 Implemented CI/CD pipelines, **reducing deployment time by 60%**
-- 📊 Optimized database queries and caching, **improving API response times by 45%**
+- Architected system integrations with health providers, **reducing SaaS expenses by 40%**
+- Built scalable microservices handling **100+ daily transactions** with **99.9% uptime**
+- Implemented CI/CD pipelines, **reducing deployment time by 60%**
+- Optimized database queries and caching, **improving API response times by 45%**
 
 ### **Junior Backend Developer** | Syncfusion
 *January 2025 – June 2025*
 
-- 🔧 Developed nano services following Domain-Driven Design principles
-- ✅ Achieved **80% code coverage** through comprehensive testing
-- 🤝 Participated in Agile ceremonies and code reviews
+- Developed nano services following Domain-Driven Design principles
+- Achieved **80% code coverage** through comprehensive testing
+- Participated in Agile ceremonies and code reviews
 
 ### **Technical Support Engineer** | TrueHost
 *September 2023 – January 2024*
 
-- 🖥️ Maintained web servers and databases for optimal performance
-- 🐛 Debugged applications across multiple technology stacks
-- 📝 Documented backend processes and technical solutions
+- Maintained web servers and databases for optimal performance
+- Debugged applications across multiple technology stacks
+- Documented backend processes and technical solutions
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
 - **40% Cost Reduction**: Eliminated third-party platform dependencies through custom integrations
 - **99.9% Uptime**: Maintained high availability for critical insurance microservices
@@ -96,7 +96,7 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberpunkmania&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -109,20 +109,20 @@ Results-driven **Full Stack Software Developer** with **3+ years of experience**
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔄 Building event-driven microservices architecture
-- ☁️ Deepening expertise in Azure cloud services
-- 🧪 Implementing Test-Driven Development practices
-- 📚 Contributing to open-source .NET projects
+- Building event-driven microservices architecture
+- Deepening expertise in Azure cloud services
+- Implementing Test-Driven Development practices
+- Contributing to open-source .NET projects
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 💼 **LinkedIn**: [lloyd-katila](https://www.linkedin.com/in/lloyd-katila-8a70b2238/)
-- 📧 **Email**: lloydkatila@gmail.com
-- 📱 **Phone**: +254-791333586
+- **LinkedIn**: [lloyd-katila](https://www.linkedin.com/in/lloyd-katila-8a70b2238/)
+- **Email**: lloydkatila@gmail.com
+- **Phone**: +254-791333586
 
 ---
 
